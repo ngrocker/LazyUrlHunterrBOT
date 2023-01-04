@@ -8,9 +8,9 @@
         "search",
         "bot"
     ],
-    "repository": "https://github.com/LazyDeveloperr/LazyUrlHunterrBOT",
-    "website": "https://telegram.me/LazyDeveloper",
-    "success_url": "https://telegram.me/LazyDeveloper",
+    "repository": "https://github.com/NGROCKERS/LazyUrlHunterrBOT",
+    "website": "https://telegram.me/mallurockersclub",
+    "success_url": "https://telegram.me/mallurockersclub",
     "env": {
         "API_ID": {
             "description": "If you are new user then Get this value from my.telegram.org else get it from @TgApiextractorBot"
