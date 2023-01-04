@@ -15,13 +15,13 @@ class Config(object):
     BOT_OWNER = int(os.environ.get("BOT_OWNER"))
     DATABASE_URL = os.environ.get("DATABASE_URL")
     UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", None)
-    ABOUT_BOT_TEXT = """<b> <a href='https://t.me/LazyUrlHunterrBOT'>Lazy Url Hunterr</a> is an open source project.
+    ABOUT_BOT_TEXT = """<b> <a href='https://t.me/mallurockersclub'>Mallurockersclub💜</a> is an open source project.
 
     Devs: 
         <a href='https://t.me/mRiderDM'>❤️ LazyDeveloper ❤️</a>
     
     
-🤖 My Name: <a href='https://t.me/Official_Movies_Group'>Mdisk Search Robot</a>
+🤖 My Name: <a href='https://t.me/mallurockersclub_bot'> 👶BABY ⚔️VARRIOR ❤️ </a>
 
 📝 Language: <a href='https://www.python.org'>Python V3</a>
 
@@ -29,12 +29,12 @@ class Config(object):
 
 📡 Server: <a href='https://heroku.com'>Heroku</a>
 
-📡 Server 2: <a href='https://heroku.com'>koyeb</a> <i>comming soon</i>
+📡 Server 2: <a href='http://mallutalkie.epizy.com'>MALLUTALKIES</a> <i>comming soon</i>
 
-👨‍💻 Developer Channel: <a href='https://t.me/LazyDeveloper'>LazyDeveloper</a></b>
+👨‍💻 Developer Channel: <a href='https://t.me/MALLUROCKERSCLUB'>MALLUROCKERS CLUB ❤️ </a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>💋 Developer : <a href='https://t.me/LazyDeveloper'>LazyDeveloper</a>
+    ABOUT_HELP_TEXT = """<b>💋 Developer : <a href='https://t.me/ngrocker'>NGROCKERS</a>
 
 If You Want Your Own Bot Like This Then You Can Contact Our Developer.</b>
 """
@@ -51,7 +51,7 @@ Don't be sad ! Your all urls are in safe Hand.
 
 »»» <b>Happy Hunting</b> «««
 
-🔺Thank You <a href='https://t.me/LazyDeveloper'>LazyDeveloper</a>🔺 </b>
+🔺Thank You <a href='https://t.me/ngrocker'>NGROCKERS</a>🔺 </b>
 """
 
 
